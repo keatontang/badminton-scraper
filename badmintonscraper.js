@@ -18,7 +18,7 @@ async function scrapeProduct(url) {
     const player2Name = await player2.jsonValue();
 
     const [el4] = await page.$x('/html/body/div[1]/div[2]/div[1]/section[3]/div/div/div');
-    const liveResults = await el3.getProperty('wrapper-content-results');
+    const liveResults = await el3.getProperty('textContent');
     const liveResultsFeed = await liveResults.jsonValue();
 
     console.log({player1Name, rawScore, player2Name, liveResultsFeed});
