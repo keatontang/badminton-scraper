@@ -26,4 +26,4 @@ async function scrapeProduct(url) {
     browser.close();
 }
 
-scrapeProduct("https://bwfworldtour.bwfbadminton.com/tournament/3688/princess-sirivannavari-thailand-masters-2020/live/")
+scrapeProduct("https://bwfworldtour.bwfbadminton.com/tournament/3748/barcelona-spain-masters-2020/live/")
