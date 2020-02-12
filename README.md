@@ -7,3 +7,5 @@ Web scraping tool which displays the score of the most recent game/live game fro
 - [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 - [Web Scraping Tutorial](https://www.youtube.com/watch?v=TzZ3YOUhCxo&t=31s) by Code Drip
+
+- [Badminton World Federation](https://bwfworldtour.bwfbadminton.com/)
